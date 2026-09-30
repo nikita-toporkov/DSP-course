@@ -38,3 +38,7 @@ Reduced amplitude.
 ### Give one real engineering application for moving-average filtering.
 
 Signal noise reduction for audio application. Sensor readings. This filter is the easiest filter to implement. It also has Finite Impulse Response.
+
+## AI usage:
+
+no AI used during task completion.
